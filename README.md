@@ -18,9 +18,16 @@
 - Dán lệnh: **CD C:\Windows\System32** rồi bấm enter.
 - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/95e48928-ab6f-4298-a533-57f483c13e98)
 - Dán tiếp lệnh: **irm https://massgrave.dev/get | iex** rồi bấm enter
+- ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/d1ffa0a5-ad78-471d-b097-08b4c15b664a)
 - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/3b7607cb-b071-4142-a306-434cf703ff8d)
 - **Chọn phím 2**
-- 
+- ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/aa736628-781f-4ea4-8b51-a679c7e012e8)
+- **Bấm phím 1**
+- ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/769479c2-319b-4cdd-8e26-c48e3518a219)
+- ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/040f60ad-cbb0-4464-be26-67fe0bdc8fbc)
+
+
+
 
 
 
