@@ -25,14 +25,5 @@
 - **Bấm phím 1**
 - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/769479c2-319b-4cdd-8e26-c48e3518a219)
 - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/040f60ad-cbb0-4464-be26-67fe0bdc8fbc)
-
-
-
-
-
-
-
-
-
-
-
+- ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/1a3778b3-653e-4b7d-86a4-0e15912d2237)
+- **OK!**
