@@ -1,6 +1,7 @@
 # CÀI VISIO PRO 2021 VÀ KÍCH HOẠT #
 ## CÀI ĐẶT VISIO PRO 2021 ##
   - Download file cài đặt VISIO PRO 2021 [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioPro2021Retail.img) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EadSBg8kL2hOqLQOUrREuOABInqNEN__4EY9YRxX67Pskg?e=9R2aDZ) hoặc [tại đây](https://drive.google.com/file/d/1OhuFlPOj3mM_g-Rvmwv1u9Dh2-KXGtGe/view) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioPro2021Retail.img
   - Cài đặt:
   - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/11960dc7-7f94-4c4f-ad7c-a2b1b3791e93)
   - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/33cd0cb1-3a76-4819-9d00-b031002cc9e1)
