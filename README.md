@@ -8,6 +8,7 @@
 
 
 ## KÍCH HOẠT VISIO PRO 2021 ##
+  - Code cmd kích hoạt https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2021.txt
   - Kích hoạt bằng: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
   - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/MAS-TOOL
   - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/ActivateAIOTools
