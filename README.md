@@ -6,8 +6,6 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/11960dc7-7f94-4c4f-ad7c-a2b1b3791e93)
   - ![image](https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat/assets/82578024/33cd0cb1-3a76-4819-9d00-b031002cc9e1)
 
-
-
 ## KÍCH HOẠT VISIO PRO 2021 ##
   - Code cmd kích hoạt https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2021.txt
   - Kích hoạt bằng: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
